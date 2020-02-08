@@ -1,0 +1,62 @@
+
+section #c1{
+    text-align: justify;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+section p{
+    text-align: justify;
+    margin-top: 40px;
+}
+
+header h1{
+    background: blue;
+    color: white;
+    padding: 50px;
+    margin-left:none;
+    margin-right: none;
+}
+
+header ul li a{
+    margin-right: 20px;
+    color: white;
+    text-decoration: none;
+    background: #901F45;
+}
+
+header{
+    background-color: blue;
+}
+
+header ul li{
+    list-style: none;
+    margin-top: 75px;
+}
+
+header ul li a:link{
+    text-decoration: none;
+}
+
+header ul li a:hover{
+    background-color: white;
+    color: black;
+}
+
+header ul li a{
+    padding: 79px;
+    padding-left: 50px;
+    padding-bottom: 59px;
+    padding-right: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+
+footer p {
+    background-color: gray;
+    padding: 25px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
